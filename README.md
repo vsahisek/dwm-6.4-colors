@@ -17,5 +17,5 @@
 * dwm-status2d-systray-6.4.diff
 * dwm-switchtotag-6.2.diff
 
-** Screenshots
+## Screenshots
 ![Screenshot](screenshot1.png)
