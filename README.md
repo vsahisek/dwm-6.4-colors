@@ -18,5 +18,4 @@
 * dwm-switchtotag-6.2.diff
 
 ## Screenshots
-![Screenshot](screenshot0.png)
 ![Screenshot](screenshot1.png)
